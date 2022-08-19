@@ -19,4 +19,4 @@ Nowadays, item sales forecasting is an inseparable part of every industry especi
 •	LightGBM worked best for this dataset
 •	Deep Learning also worked well, and it might have worked even better with bigger and complex models
 •	Approach using Facebook Prophet was easy and fast to implement 
-![image](https://user-images.githubusercontent.com/75978103/185673164-746c9a90-e500-4785-8704-b051e3303cc9.png)
+
