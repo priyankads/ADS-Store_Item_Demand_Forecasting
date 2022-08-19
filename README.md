@@ -7,7 +7,9 @@ In this project we explore different time series techniques on a relatively simp
 Goals:
 
 •	Building a time series model to predict 3 months of item level sales data at different store locations
+
 •	Comparing the performances of 2 different ML algorithms which were LightGBM, Deep Learning(MLP, CNN, LSTM, LASTM+CNN) and Prophet
+
 •	Performing hyper-parameter tuning on each algorithm and visualizing the model performance
 
 ## Importance of the project:
