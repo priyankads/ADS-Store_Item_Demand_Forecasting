@@ -1,5 +1,7 @@
 # ADS-Store_Item_Demand_Forecasting
 
+<img width="264" alt="image" src="https://user-images.githubusercontent.com/75978103/185673578-598a3683-5de1-468b-a2ea-0690a6776028.png">
+
 ## Problem Statement:
 
 Given 5 years of store-item sales data and asked to predict 3 months of sales for 50 different items at 10 different stores.
