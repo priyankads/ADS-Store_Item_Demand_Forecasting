@@ -4,6 +4,7 @@
 
 Given 5 years of store-item sales data and asked to predict 3 months of sales for 50 different items at 10 different stores.
 In this project we explore different time series techniques on a relatively simple and clean dataset.
+
 Goals:
 
 •	Building a time series model to predict 3 months of item level sales data at different store locations
